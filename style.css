@@ -52,3 +52,24 @@ body {
   box-shadow: #3c4fe0 0 3px 7px inset;
   transform: translateY(2px);
 }
+
+#change {
+	display: flex;
+	margin: 50px;
+}
+
+#auto {
+	display: flex;
+	margin: 50px;
+	margin-bottom: 0px;
+}
+
+span {
+	margin: 50px;
+	margin-right: 0px;
+	font-size: 22px;
+	font-style: italic;
+	font-weight: 400;
+	font-family: sans-serif;
+}
+
